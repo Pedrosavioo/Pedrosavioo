@@ -91,7 +91,11 @@
 <div align="center">
   <br clear="both">
 
-  ![snake gif](https://github.com/Pedrosavioo/Pedrosavioo/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pedrosavioo/Pedrosavioo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrosavioo/Pedrosavioo/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedrosavioo/Pedrosavioo/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrosavioo&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
