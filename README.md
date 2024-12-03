@@ -52,7 +52,6 @@
 
 <img align="right" height="140" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif"  />
 
-<hr />
 
 #### Secondary Stack:
  
@@ -70,7 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
 </div>
 
-<hr />
 
 #### Workstation Tools:
 
@@ -84,7 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
 </div>
 
-<hr />
 
 ###
 
@@ -96,6 +93,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pedrosavioo/Pedrosavioo/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pedrosavioo/Pedrosavioo/output/github-contribution-grid-snake.svg">
   </picture>
+
+  <br />
+  <br />
+  <br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrosavioo&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
